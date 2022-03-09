@@ -1,0 +1,19 @@
+.text-color{
+
+    color: blue;
+    background-color: antiquewhite;
+}
+#color{
+color: brown;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+p{
+    font-family: 'Syne Mono', monospace;
+}
+
+
+        p{
+		font-weight:bolder;
+        }
+
